@@ -26,11 +26,13 @@ p {
 }
 
 h2 {
+    text-align: center;
     text-decoration: underline;
 }
 
 tr:hover {
     background-color: azure;
+     text-align: center;
 }
 
 td, th {
@@ -49,6 +51,7 @@ th {
 }
 
 table {
+    margin: 0 auto;
     border-collapse: collapse;
     width: 100;
 }

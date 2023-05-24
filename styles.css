@@ -30,6 +30,9 @@ h2 {
     text-decoration: underline;
 }
 
+h3 {
+    text-align: center;
+}
 tr:hover {
     background-color: azure;
      text-align: center;
